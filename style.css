@@ -1,0 +1,39 @@
+body{
+    background-color:black;
+    background-image: url('https://w0.peakpx.com/wallpaper/349/790/HD-wallpaper-black-floral-background-black-backgrounds-vintage-floral-pattern-black-vintage-background-floral-patterns-black-damask-pattern-gray-retro-backgrounds-floral-vintage-pattern-vintage-backgrounds-thumbnail.jpg');
+  }
+  .para1{
+    font-size: 20px;
+    color:white;
+    text-align:center;
+    
+  }
+  
+  h1{
+    color: #008055;
+    text-align:center;
+    padding: 10px;
+   }
+  
+  h2{
+    color: dark-blue;
+    text-align:center;
+    font-family:sans-serif;
+    color: #ff0066;
+  }
+  .heading{
+    background-color: #00ffaa;
+    font-size: 25px;
+    text-align:center;
+  }
+  
+  .para{
+    text-size:20px;
+    color:white;
+    
+  }
+    
+    
+    
+  
+  
